@@ -1,0 +1,17 @@
+{
+    "pageTitle": "Daftar akun baru",
+    "title": "Daftar",
+    "button": "Buat akun",
+    "subscribe": "Daftar untuk berlangganan",
+    "isWhatsapp": "Nomor telepon telah terdaftar di whatsapp",
+    "success": "Pendaftaran berhasil",
+    "failed": "Pendaftaran gagal",
+    "openEmail": "Form konfirmasi telah dikirim ke email anda. Cek email anda untuk melanjutkan proses",
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "john.doe@mail.com",
+    "password": "********",
+    "phoneNumber": "+62123456789",
+    "otp": "123456",
+    "registerInformation": "Silahkan isi form dibawah ini"
+}
